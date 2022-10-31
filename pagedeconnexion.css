@@ -24,7 +24,7 @@ header nav{
 header li{
     font-size: 1.2em;
     float: right;   
-    font-family: 'Dancing script', 'cursive';    
+    font-family: 'roboto', 'cursive';    
 }
 header li a{
     text-decoration: none;
@@ -33,35 +33,35 @@ header li a{
     text-align: center;
 }
 #logo{
-    font-family: 'Dancing script', 'cursive';
+    font-family: 'roboto', 'cursive';
     font-weight: bold;
     float: left; 
     color: rgb(253, 253, 253);  
       
 }
 #acceuil{
-    font-family: 'Dancing script', 'cursive';
+    font-family: 'roboto', 'cursive';
     font-weight: bold;
     text-align: center; 
     color: rgb(253, 253, 253);  
       
 }
 #travail h2{
-    font-family: 'Dancing script', 'cursive';
+    font-family: 'roboto', 'cursive';
     font-weight: bold;
     text-align: center; 
     color: rgb(253, 253, 253);  
       
 }
 #travail p{
-    font-family: 'arial black', 'cursive';
+    font-family: 'roboto', 'cursive';
     font-weight: bold;
     text-align: center; 
     color: rgb(253, 253, 253);  
       
 }
 #travail strong{
-    font-family: 'arial black', 'cursive';
+    font-family: 'roboto', 'cursive';
     font-weight: bold; 
     color: rgb(253, 253, 253);  
       
@@ -79,7 +79,7 @@ header li a{
       
 }
 #cv h2{
-    font-family: 'Dancing script', 'cursive';
+    font-family: 'roboto', 'cursive';
     font-weight: bold;
     text-align: center; 
     color: rgb(253, 253, 253);  
@@ -90,20 +90,20 @@ text-align: center;
 }
 
 #cv p{
-    font-family: 'arial black', 'cursive';
+    font-family: 'roboto', 'cursive';
     font-weight: bold;
     color: rgb(253, 253, 253);  
       
 }
 #a-propos h2{
-    font-family: 'Dancing script', 'cursive';
+    font-family: 'roboto', 'cursive';
     font-weight: bold;
     text-align: center; 
     color: rgb(253, 253, 253);  
       
 }
 #a-propos p{
-    font-family: 'arial black', 'cursive';
+    font-family: 'roboto', 'cursive';
     font-weight: bold;
     color: rgb(253, 253, 253);  
       
